@@ -17,6 +17,12 @@
 
 ## 🐳 Docker Container Setup
 
+### Docker Container herunterladen:
+
+```bash
+docker pull pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
+```
+
 ### Option 1: PyTorch Base Image (EMPFOHLEN)
 
 ```bash
